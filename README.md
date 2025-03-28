@@ -41,8 +41,8 @@ ECG-Signal-Processing/
 ### Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/brendanharrington/ECG-Signal-Processing.git
-   cd ECG-Signal-Processing
+   git clone https://github.com/brendanharrington/signals-project-2.git
+   cd signals-project-2
    ```
 2. **Open MATLAB and navigate to the repository:**
    ```matlab
