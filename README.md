@@ -1,4 +1,4 @@
-# ECG Signal Processing Project
+# ECEN 3301 - Project 2
 
 ## Overview
 This project is part of **ECEN 3301 - Biomedical Signals and Systems** and focuses on processing **electrocardiogram (ECG) signals**. The goal is to design digital filters, automate heart rate analysis, and detect **ventricular arrhythmias** using **MATLAB**.
@@ -11,7 +11,7 @@ This project is part of **ECEN 3301 - Biomedical Signals and Systems** and focus
 
 ## Repository Structure
 ```
-ECG-Signal-Processing/
+signals-project-2/
 │── data/                     # Raw and processed data files
 │   ├── normal.mat
 │   ├── n_422.mat
@@ -46,7 +46,7 @@ ECG-Signal-Processing/
    ```
 2. **Open MATLAB and navigate to the repository:**
    ```matlab
-   cd 'path/to/ECG-Signal-Processing'
+   cd 'path/to/signals-project-2'
    ```
 3. **Load ECG data:**
    ```matlab
