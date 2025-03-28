@@ -1,0 +1,5 @@
+# VSCode configuration files
+.vscode
+
+# MacOS metadata files
+.DS_Store
